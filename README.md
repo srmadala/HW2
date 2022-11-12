@@ -1,6 +1,2 @@
-# CMPM-121-Homework-1
-My scene is a village for animals in the mountains. The base idea for my scene is from Animal Farm the book, though I could not find any mice in the free assets of Unity. I included houses, vehicles, animals, rocks, and trees as objects in my project. I was inspired to make this scene from Animal Farm. I originally wanted to make a cult sacrifice scene but was unable to due to my lack of experience in Unity. The main character of this scene is the pig that is looking at the bus and the rock.
-
-Objects in Scene:
-
-Sheep, Cow, Pig, Goose, Chicken, Bus, Building 1, Building 2, Building 3, Building 4, Building 5, Fir tree, Leaf Tree, Small Automobile, Well, Clothes Hanger, Wood Logs, Large Stone, Rock, Signpost, Bench
+# CMPM-121-Homework-2
+This scene is a continuation of my previous scene, the Animal Farm. This is a mysertious area in the mountains where by drinking a well with mysterious power, the animals recieved sentiance, allowing them to create the building and scene you see before yourself. The 4 lights I used were spot lights in the lamp posts, point lights in the japanese lamps, a directional light, and an area light in the well to create a mysterious look. Along with that, I added a day-night cycle as can be seen and a particle system in the well to add to the same mysterious effect. Finally, everything that was added contributes to the scene's lore and feel. Nothing is out of place. Everything has materials/textures and I tried to make the lighting, particularly the well lighting interesting. 
